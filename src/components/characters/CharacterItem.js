@@ -11,7 +11,7 @@ const CharacterItem = ({ item }) => {
           <h1>{item.name}</h1>
           <ul>
             <li>
-              <strong>Actor name:</strong> {item.portrayed}
+              <strong>Actor name!:</strong> {item.portrayed}
             </li>
             <li>
               <strong>Nickname:</strong> {item.nickname}
